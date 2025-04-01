@@ -1,7 +1,7 @@
 # TableLLM: Enabling Tabular Data Manipulation by LLMs in Real Office Usage Scenarios
 
 
-We present **T**able**LLM**, a powerful large language model designed to handle tabular data manipulation tasks efficiently, whether they are embedded in spreadsheets or documents, meeting the demands of real office scenarios. The TableLLM are fine-tuned based on Llama3.1-8B.
+We present [**T**able**LLM**](https://modelscope.cn/models/TABLELLM/TableLLM), a powerful large language model designed to handle tabular data manipulation tasks efficiently, whether they are embedded in spreadsheets or documents, meeting the demands of real office scenarios. The TableLLM are fine-tuned based on Llama3.1-8B.
 
 TableLLM generates either a code solution or a direct text answer to handle tabular data manipulation tasks based on different scenarios. Code generation is used for handling spreadsheet-embedded tabular data, which often involves the insert, delete, update, query, merge, and chart operations of tables. Text generation is used for handling document-embedded tabular data, which often involves the query operation of short tables.
 
